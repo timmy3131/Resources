@@ -42,6 +42,18 @@
 
 * [Various Color Palettes](http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project) - Various Color Palettes.
 
+#### Git
+
+* [Github Classes](https://training.github.com/classes/) Github Training Classes, online/in-person.
+
+* [Pro Git](http://git-scm.com/book/en/v2) - The entire Pro Git Book online.
+
+* [GitReady](www.gitready.com) - Tutorials for various level of git experience.
+
+* [Set up Git](https://help.github.com/articles/set-up-git/) - Setting up git, Github Help Documentation.
+
+* [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/) - Generating SSH Keys, Github Help Documentation.
+
 #### Design Tools and Resources
 
 * [Can I Use](http://caniuse.com/) - Browser tool to check what can be used. (HTML,CSS,JS,etc.)
