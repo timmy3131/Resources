@@ -8,6 +8,8 @@
 
 #### Responsive Web Design(RWD)
 
+* [Responsive Design](http://www.creativebloq.com/netmag/16-really-useful-responsive-design-tutorials-71410085) - 16 Tutorials on RWD.
+
 #### Markdown
 
 * [Interactive Markdown Tutorial](http://markdowntutorial.com/) - Interactive Markdown Tutorial to learn how to effectively use Markdown.
@@ -35,6 +37,10 @@
 #### Typography
 
 #### Color Theory
+
+* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - Adobe Color Wheel
+
+* [Various Color Palettes](http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project) - Various Color Palettes.
 
 #### Design Tools and Resources
 
