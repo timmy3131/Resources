@@ -6,6 +6,8 @@
 
 #### CSS
 
+* [Advanced CSS Tooling](http://addyosmani.com/blog/video-advanced-css-performance-tooling/) Talk on CSS Tooling
+
 #### Responsive Web Design(RWD)
 
 * [Responsive Design](http://www.creativebloq.com/netmag/16-really-useful-responsive-design-tutorials-71410085) - 16 Tutorials on RWD.
