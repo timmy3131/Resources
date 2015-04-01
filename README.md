@@ -58,7 +58,7 @@
 
 #### Design Tools and Resources
 
-* [Can I Use](http://caniuse.com/) - Browser tool to check what can be used. (HTML,CSS,JS,etc.)
+* [Can I Use](http://caniuse.com/) - Browser tool to check what can be used. (HTML, CSS, JS, etc.)
 
 * [Google Fonts](http://www.google.com/fonts) - Google Fonts 
 
