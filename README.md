@@ -30,15 +30,17 @@ Anyone is welcomed to contribute resources that they have found helpful in their
 
 * [52 Weeks of UX](http://52weeksofux.com/tagged/week_1) - 52 week guide to learning UX.
 
+* [Large Guide to Testing ](http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/ - Large Guide to Testing.
+
 * [Sitepoint Design & UX](http://www.sitepoint.com/design-ux/) - Sitepoint's aritcles & tutorials on Design & UX.
 
 * [101 on UI](http://www.nngroup.com/articles/usability-101-introduction-to-usability/) - Introduction to Usability.
 
-* [Color Theory](http://www.colormatters.com/color-and-design/basic-color-theory) - Introduction into Color Theory
-
 #### Typography
 
 #### Color Theory
+
+* [Color Theory](http://www.colormatters.com/color-and-design/basic-color-theory) - Introduction into Color Theory
 
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - Adobe Color Wheel
 
